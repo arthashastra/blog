@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://arthashastra.github.io/blog/sitemap.xml 
